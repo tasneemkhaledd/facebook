@@ -1,0 +1,53 @@
+body {
+  background-color: #EBECF0;
+  text-align: center;
+}
+.two {
+  background-color: white;
+  width: 25%;
+  margin: auto;
+  height: 350px;
+  box-shadow: 10px 10px 10px 10px grey;
+  padding: 20px;
+}
+h1 {
+  color: blue;
+  margin-top: 60px;
+  font-family: klavika-web, sans-serif;
+font-style: normal;
+font-weight: 700;
+}
+.inputone {
+  padding: 6px;
+  text-align: right;
+  margin: 5px;
+width: 300px;
+
+}
+.inputtwo {
+    padding: 6px;
+    text-align: right;
+    margin: 5px;
+    width: 90%;
+}
+.button {
+  background-color: #1877f2;
+  width: 350px;
+  padding: 10px;
+  border: none;
+  color: white;
+  font-size: 15px;
+  font-weight: bold;
+  border-radius: 8px;
+}
+.btn {
+  background-color: #42b72a;
+  width: 150px;
+  padding: 10px;
+  border: none;
+  color: white;
+  font-size: 15px;
+  font-weight: bold;
+  margin-top: 20px;
+  border-radius: 8px;
+}
